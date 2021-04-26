@@ -15,7 +15,8 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Material-UI](https://img.shields.io/badge/-Material--lUI-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Material-UI](https://img.shields.io/badge/-Material--UI-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![TailwindCSS](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=tailwind-css)
 - 🛢 &nbsp;
   ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
