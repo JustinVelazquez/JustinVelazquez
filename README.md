@@ -2,9 +2,7 @@
 <h2> Hey there! I'm Justin Velazquez.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🤔 &nbsp; Exploring new technologies and developing websites & web applications. 
-- 🎓 &nbsp; Self-Taught FullStack Web Engineer  
+<p> I am a Software Engineer based out of Cape Coral, Florida. Profcient in both Frontend & Backend development, i have extensive in many different technologies. I am also a Google certifited UI developer. As a software engineer, my aim is to bring my skills and passion to innovative projects, and show my commitment to developing the solutions they or your company may need!  </p>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
