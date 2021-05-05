@@ -2,12 +2,11 @@
 <h2> Hey there! I'm Justin Velazquez.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-<p> I am a Software Engineer based out of Cape Coral, Florida. Profcient in both Frontend & Backend development, i have extensive in many different technologies. I am also a Google certifited UI developer. As a software engineer, my aim is to bring my skills and passion to innovative projects, and show my commitment to developing the solutions they or your company may need!  </p>
+<p> I am a Software Engineer based out of Cape Coral, Florida. Proficient in both Frontend & Backend development, i have extensive knowledge in many different technologies. I am also a Google certifited UI developer. As a software engineer, my aim is to bring my skills and passion to innovative projects, and show my commitment to developing the solutions they or your company may need!  </p>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
